@@ -8,6 +8,14 @@ body {
 .director {
     padding: 10px;
     font-size: 20px;
+    cursor: pointer;
+}
+.link-hider {
     color: white;
-    text-decoration: none;
+    cursor: pointer;
+    text-emphasis: none;
+}
+img {
+    display: block; /* or inline-block */
+    margin: 0 auto; /* for center alignment */
 }
